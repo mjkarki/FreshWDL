@@ -1297,7 +1297,7 @@ var dict = {
 		bg: "Миналата",
 		cs: "Poslední",
 		si: "Zadnjih",
-		fi: "Viimeisin",
+		fi: "Viimeisimmät",
 		sv: "Sista",
 		pt: "Últimos(as)",
 		ca: "Últimes"
@@ -1316,7 +1316,7 @@ var dict = {
 		bg: "дни",
 		cs: "Dny",
 		si: "Dni",
-		fi: "Päivät",
+		fi: "Päivää",
 		sv: "Dagarna",
 		pt: "Dias",
 		ca: "Dies"
@@ -1335,7 +1335,7 @@ var dict = {
 		bg: "Часа",
 		cs: "Hodiny",
 		si: "Ure",
-		fi: "Tunnit",
+		fi: "Tuntia",
 		sv: "Timmarna",
 		pt: "Horas",
 		ca: "Hores"
