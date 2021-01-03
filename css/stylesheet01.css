@@ -223,11 +223,11 @@ html, body {
     padding: 0;
     margin: 0;
     border: 1px solid #ccc;
-    width: 230px;
+    width: 255px;
     border-radius: 3px;
     overflow: hidden;
     background-color: #fff;
-    background: #fff url("https://gitcdn.xyz/cdn/Yerren/FreshWDL/master/sprites/arrow-down-small-24.png") no-repeat 90% 50%;
+    background: #fff url("https://gitcdn.xyz/repo/mjkarki/FreshWDL/master/sprites/arrow-down-small-24.png") no-repeat 97% 50%;
 }
 
 .select-style select {
