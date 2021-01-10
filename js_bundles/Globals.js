@@ -1373,7 +1373,7 @@ var dict = {
 		bg: "Месеци",
 		cs: "Měsíce",
 		si: "Mesecev",
-		fi: "Kuukaudet",
+		fi: "Kuukautta",
 		sv: "Månader",
 		pt: "Meses",
 		ca: "Mesos"
